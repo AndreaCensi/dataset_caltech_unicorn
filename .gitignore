@@ -33,3 +33,4 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+src/dataset_caltech_unicorn/configs/201304-youbot-exploration/201304-youbot-exploration.rawlogs.yaml.old
